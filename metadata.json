@@ -1,0 +1,5 @@
+{
+  "name": "ExcelChess Pro",
+  "description": "A high-performance chess engine integrated into a spreadsheet-style interface, featuring AI analysis driven by Gemini.",
+  "requestFramePermissions": []
+}
